@@ -1,10 +1,13 @@
-# AWS_CloudFormation_Stacks
+      # AWS_CloudFormation_Stacks
 
-<h1 align="center">☁️ AWS CloudFormation — Desafio DIO Santander Code Girls ☁️</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/AWS_CloudFormation_Logo.svg" alt="AWS CloudFormation" width="200"/>
-</p>
+<h1>☁️ AWS CloudFormation — Desafio DIO Santander Code Girls ☁️</h1>
+
+</div>  
+
+
+
 
 <p align="center">
   Repositório criado para o desafio prático do Bootcamp <strong>Santander Code Girls</strong> na plataforma <strong>DIO</strong>, com foco no uso do AWS CloudFormation para criar e gerenciar recursos de forma automatizada na nuvem ☁️.
